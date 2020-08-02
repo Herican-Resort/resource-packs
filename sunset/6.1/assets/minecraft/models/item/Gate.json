@@ -1,0 +1,63 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"texture": "custom/towertexture"
+	},
+	"elements": [
+		{
+			"from": [5.75, 0.75, 23],
+			"to": [15.5, 8.75, 23.5],
+			"faces": {
+				"north": {"uv": [0, 0, 10.75, 8], "texture": "#texture"},
+				"east": {"uv": [0, 0, 0.5, 8], "texture": "#texture"},
+				"south": {"uv": [0, 0, 6.875, 16], "texture": "#texture"},
+				"west": {"uv": [0, 0, 0.5, 8], "texture": "#texture"},
+				"up": {"uv": [0, 0, 10.75, 0.5], "texture": "#texture"},
+				"down": {"uv": [0, 0, 10.75, 0.5], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [6, 2, 23.25],
+			"to": [15.25, 2.5, 23.75],
+			"faces": {
+				"north": {"uv": [0, 0, 9.25, 0.5], "texture": "#texture"},
+				"east": {"uv": [0, 0, 0.75, 0.5], "texture": "#texture"},
+				"south": {"uv": [0, 15.5, 14.75, 16], "texture": "#texture"},
+				"west": {"uv": [0, 0, 0.75, 0.5], "texture": "#texture"},
+				"up": {"uv": [0, 0, 9.25, 0.75], "texture": "#texture"},
+				"down": {"uv": [0, 0, 9.25, 0.75], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [6, 4.5, 23.25],
+			"to": [15.25, 5, 23.75],
+			"faces": {
+				"north": {"uv": [0, 0, 9.25, 0.5], "texture": "#texture"},
+				"east": {"uv": [0, 0, 0.75, 0.5], "texture": "#texture"},
+				"south": {"uv": [0, 15.5, 14.75, 16], "texture": "#texture"},
+				"west": {"uv": [0, 0, 0.75, 0.5], "texture": "#texture"},
+				"up": {"uv": [0, 0, 9.25, 0.75], "texture": "#texture"},
+				"down": {"uv": [0, 0, 9.25, 0.75], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [6, 7, 23.5],
+			"to": [15.25, 7.5, 23.75],
+			"faces": {
+				"north": {"uv": [0, 0, 9.25, 0.5], "texture": "#texture"},
+				"east": {"uv": [0, 0, 0.75, 0.5], "texture": "#texture"},
+				"south": {"uv": [0, 15.5, 14.75, 16], "texture": "#texture"},
+				"west": {"uv": [0, 0, 0.75, 0.5], "texture": "#texture"},
+				"up": {"uv": [0, 0, 9.25, 0.75], "texture": "#texture"},
+				"down": {"uv": [0, 0, 9.25, 0.75], "texture": "#texture"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, -180, 0],
+			"translation": [0, -16, 26],
+			"scale": [2.0521, 2.6432, 2.052]
+		}
+	}
+}
